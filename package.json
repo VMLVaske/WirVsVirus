@@ -23,6 +23,6 @@
     "@openzeppelin/cli": "^2.7.2"
   },
   "dependencies": {
-    "@openzeppelin/contracts": "^2.5.0"
+    "@openzeppelin/contracts": "^4.7.2"
   }
 }
